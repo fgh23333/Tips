@@ -21,7 +21,7 @@ export default {
             list: [
                 {
                     detail: "掌握一些简单的运维知识就足以应对考试了",
-                    explaination: ""
+                    explaination: "目前信息技术中的大部分知识点都可以运用在简单的运维中，那么反过来，只要会运维就会信息技术了"
                 }
             ]
         }
