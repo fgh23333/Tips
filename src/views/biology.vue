@@ -21,7 +21,7 @@ export default {
             list: [
                 {
                     detail: "多代入生活",
-                    explaination: ""
+                    explaination: "生活中许多东西都与生物学知识有强烈联系"
                 },
                 {
                     detail: "与计算机高度相似，可结合进行联想学习",
