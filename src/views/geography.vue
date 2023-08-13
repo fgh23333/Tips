@@ -21,11 +21,11 @@ export default {
             list: [
                 {
                     detail: "多积累并结合生活常识",
-                    explanation: ""
+                    explanation: "生活中有许多地理现象，多多观察，有助于深刻理解各个知识点"
                 },
                 {
                     detail: "多看地图，培养空间概念",
-                    explanation: ""
+                    explanation: "对一个地区有一个整体性认识，有助于深度剖析"
                 }
             ]
         }
