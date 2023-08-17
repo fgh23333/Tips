@@ -26,6 +26,10 @@ export default {
                 {
                     detail: "多背一些课本",
                     explaination: ""
+                },
+                {
+                    detail: "对时政的了解和对课本的理解都要顾及",
+                    explaination: "单选和多选都会考"
                 }
             ]
         }
