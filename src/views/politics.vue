@@ -20,7 +20,11 @@ export default {
         return {
             list: [
                 {
-                    detail: "没选没啥发言权",
+                    detail: "先审题，找出答题的角度，再对应背出，默出知识点，结合材料写出主观题",
+                    explaination: ""
+                },
+                {
+                    detail: "多背一些课本",
                     explaination: ""
                 }
             ]
