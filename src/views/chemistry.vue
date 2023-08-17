@@ -26,6 +26,10 @@ export default {
                 {
                     detail: "完全理解性记忆，别死背",
                     explaination: ""
+                },
+                {
+                    detail: "注重一轮复习，要全面复习",
+                    explaination: "知识点很全，不然二轮复习会跟不上"
                 }
             ]
         }
