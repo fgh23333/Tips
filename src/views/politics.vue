@@ -32,7 +32,7 @@ export default {
                     explaination: "单选和多选都会考"
                 },
                 {
-                    detail: "小论文的话，注意逻辑顺序，逻辑起点，分论点，引用论证，事实论证，逻辑终点",
+                    detail: "小论文注意逻辑顺序，逻辑起点，分论点，引用论证，事实论证，逻辑终点",
                     explaination: ""
                 }
             ]
