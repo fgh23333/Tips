@@ -3,7 +3,7 @@
     <el-container>
       <el-header>Tips（持续更新）</el-header>
       <el-container>
-        <el-aside width="220px">
+        <el-aside width="240px">
           <navMenu></navMenu>
         </el-aside>
         <el-main>
