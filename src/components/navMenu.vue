@@ -38,13 +38,13 @@ export default {
                     subject: "物理"
                 },
                 {
-                    subject: "化学（由某化学学霸贡献）"
+                    subject: "化学"
                 },
                 {
                     subject: "生物"
                 },
                 {
-                    subject: "政治"
+                    subject: "政治（由某政治学渣贡献）"
                 },
                 {
                     subject: "历史"

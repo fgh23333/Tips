@@ -24,8 +24,8 @@ export default {
                     explaination: ""
                 },
                 {
-                    detail: "多背一些课本",
-                    explaination: ""
+                    detail: "多背一些课本中的知识点",
+                    explaination: "为写引用论证做准备"
                 },
                 {
                     detail: "对时政的了解和对课本的理解都要顾及",
