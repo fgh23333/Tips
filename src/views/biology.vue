@@ -26,6 +26,10 @@ export default {
                 {
                     detail: "与计算机高度相似，可结合进行联想学习",
                     explaination: ""
+                },
+                {
+                    detail: "多背（某高考一分都没浪费的人贡献）",
+                    explaination: ""
                 }
             ]
         }

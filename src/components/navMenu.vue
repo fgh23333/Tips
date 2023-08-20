@@ -44,7 +44,7 @@ export default {
                     subject: "生物"
                 },
                 {
-                    subject: "政治（由某政治学渣贡献）"
+                    subject: "政治（由某高考一分都没浪费的人贡献）"
                 },
                 {
                     subject: "历史"
