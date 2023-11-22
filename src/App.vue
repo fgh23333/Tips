@@ -16,13 +16,10 @@
 * {
   padding: 0;
   margin: 0;
+  line-height: 24px;
 }
 
 ::-webkit-scrollbar {
   display: none;
-}
-
-li {
-  line-height: 20px;
 }
 </style>
