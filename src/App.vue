@@ -21,4 +21,8 @@
 ::-webkit-scrollbar {
   display: none;
 }
+
+li {
+  line-height: 20px;
+}
 </style>
